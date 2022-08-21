@@ -1,16 +1,15 @@
-# music_application
+<Music Lyrics Application>
 
-A new Flutter project.
+This music lyrics application was made by me for a work project. It allows you to choose a specific song that has been fetched from an API, view the lyrics, and bookmark it on your phone.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Get all items
 
-A few resources to get you started if this is your first Flutter project:
+```http
+  GET /api/musixmatch
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `String` | f5c1e78dfbf678af599fa05e02ec5132 |
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
