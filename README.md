@@ -23,6 +23,10 @@ This music lyrics application was made by me for a work project. It allows you t
   ## Diagram Of the Music Lyrics Application
   
   ![Example-diagram-of-the-Web-Audio-API-routing-system](https://user-images.githubusercontent.com/76536042/185811820-4f65d24e-6511-480d-bf9e-127ceb5ac592.png)
+  
+  ![download](https://user-images.githubusercontent.com/76536042/185811854-534c000f-7c61-4ebc-9557-9db11e18901b.png)
+
+  
 
   
 ## SDLC
