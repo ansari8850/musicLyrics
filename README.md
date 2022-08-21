@@ -26,8 +26,6 @@ This music lyrics application was made by me for a work project. It allows you t
 - Concept
 - Resources
 - User Interface
-- Authenticate 
-- Real-time Data Storage
 - Packages
 
   ##Documentation  in Video Note
