@@ -20,3 +20,22 @@ This music lyrics application was made by me for a work project. It allows you t
 |Dart|
 |Api|
 |vscode|
+  
+## SDLC
+
+- Concept
+- Resources
+- User Interface
+- Authenticate 
+- Real-time Data Storage
+- Packages
+
+  ##Documentation  in Video Note
+  
+  
+  
+  
+
+https://user-images.githubusercontent.com/76536042/185811756-fab11ae8-15e2-4386-ad99-635971bba999.mp4
+
+
