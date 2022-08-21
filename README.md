@@ -15,6 +15,7 @@ This music lyrics application was made by me for a work project. It allows you t
 
 
 |Software  &  Packages used |
+|---------|
 |Flutter|
 |Dart|
 |Api|
