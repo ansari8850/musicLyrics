@@ -20,6 +20,10 @@ This music lyrics application was made by me for a work project. It allows you t
 |Dart|
 |Api|
 |vscode|
+  ## Diagram Of the Music Lyrics Application
+  
+  ![Example-diagram-of-the-Web-Audio-API-routing-system](https://user-images.githubusercontent.com/76536042/185811820-4f65d24e-6511-480d-bf9e-127ceb5ac592.png)
+
   
 ## SDLC
 
